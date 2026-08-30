@@ -4,16 +4,6 @@
 
 ShopNest is a modern, responsive e-commerce web application built to deliver a seamless online shopping experience. It combines a clean user interface, intuitive product discovery, personalized shopping features, and an extensible architecture designed for full-stack integration.
 
-<p align="center">
-  <a href="https://github.com/Kaushik3747/ShopNest">
-    <img src="https://img.shields.io/badge/GitHub-ShopNest-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="YOUR_VERCEL_URL">
-    <img src="https://img.shields.io/badge/Live-Demo-black?style=for-the-badge&logo=vercel" alt="Live Demo">
-  </a>
-</p>
-
----
 
 ## ✨ Overview
 
